@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: ui
+Version: 0.1.4
+Summary: Simple menu-driven user interface for the terminal
+Home-page: https://github.com/morngrar/ui
+Author: Svein-Kåre Bjørnsen
+Author-email: sveinkare@gmail.com
+License: GPL
+Description: ui
+        ==
+        
+        'ui' is a simple menu-driven user interface for the terminal. It is a
+        work in progress, and this readme will be updated when the package is
+        more stable.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: User Interfaces
