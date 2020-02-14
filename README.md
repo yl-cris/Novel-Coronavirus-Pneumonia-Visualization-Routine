@@ -6,6 +6,7 @@ by learning Python pyqt5 and pyecharts,made a small routine which can visualize 
 
 ## 界面显示
 ![image](https://github.com/yl-cris/Novel-Coronavirus-Pneumonia-Visualization-Routine/tree/master/images/qt1.jpg)
+
 ![image](https://github.com/yl-cris/Novel-Coronavirus-Pneumonia-Visualization-Routine/tree/master/images/qt2.jpg)
 
 ## 可视化成果展示
